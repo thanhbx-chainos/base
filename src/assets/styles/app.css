@@ -1,0 +1,11 @@
+.css-logo img {
+	height: 34px;
+}
+.menu {
+	box-shadow: 0 0 0 2px #f3f4f5 inset;
+}
+.tabular .item {
+    font-weight: 900;
+    color: rgba(0,0,0,.87);
+	border-bottom: 1px solid #e7e7e7;
+}
